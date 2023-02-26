@@ -1,0 +1,19 @@
+{
+  "name": "first-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Illiakalinin/first-express-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Illiakalinin/first-express-app/issues"
+  },
+  "homepage": "https://github.com/Illiakalinin/first-express-app#readme"
+}
